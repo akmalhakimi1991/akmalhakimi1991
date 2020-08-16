@@ -12,6 +12,8 @@ Skills: HTML / CSS / REACT / JS / Express / Python / Flask
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/akmalhakimi1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/akmalhakimi1991/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/akmalhakimi1991)  
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalhakimi1991&layout=compact&hide=html" alt="akmalhakimi1991" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalhakimi1991&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/akmalhakimi1991)  
