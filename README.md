@@ -5,7 +5,7 @@ I am a passionate programmer with more than 5 years of experience in Javascript 
 Skills: HTML / CSS / REACT / JS / Express / Python / Flask
 
 - 🔭 I’m currently working on building my portfolio website 
-- 🌱 I’m currently learning Django / Next.js / Vue.js  
+- 🌱 I’m currently learning Django / React Native / Next.js / Vue.js  
 - 📫 How to reach me: akmalhakimiwork@gmail.com 
 
 
