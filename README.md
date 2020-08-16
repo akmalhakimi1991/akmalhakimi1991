@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Akmal
+#### I am Full Stack Javascript and Python developer
+I am a passionate programmer with more than 5 years of experience in Javascript and Python. I also have a handful of experience with Flask, Node.js, Express.js, and React.js.
 
-<!--
-**akmalhakimi1991/akmalhakimi1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / REACT / JS / Express / Python / Flask
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building my portfolio website 
+- 🌱 I’m currently learning Django / Next.js / Vue.js  
+- 📫 How to reach me: akmalhakimiwork@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/akmalhakimi1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/akmalhakimi1991/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/akmalhakimi1991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://www.akmalhakimi.com)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalhakimi1991&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/akmalhakimi1991)  
